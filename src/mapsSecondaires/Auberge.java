@@ -165,7 +165,7 @@ public class Auberge extends BasicGame{
 	
 	
 	public void Fenetreaubergiste() {
-		//ouvre la boutique 
+		//ouvre la boutique.
 		
 		Random rand = new Random();
 		int item1 = rand.nextInt(100-1)+1;

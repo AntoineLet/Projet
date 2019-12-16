@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="left-up" compressionlevel="0" width="12" height="12" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="2">
+ <tileset firstgid="1" name="[Base]BaseChip_pipo" tilewidth="32" tileheight="32" tilecount="1064" columns="8">
+  <image source="[Base]BaseChip_pipo.png" width="256" height="4256"/>
+ </tileset>
+ <tileset firstgid="1065" name="[Base]BaseChip_pipo" tilewidth="32" tileheight="32" tilecount="1064" columns="8">
+  <image source="[Base]BaseChip_pipo.png" width="256" height="4256"/>
+ </tileset>
+ <layer id="1" name="Background" width="12" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECrNkZGCwHMWjYUBmGgAA3GHj8EACAAA=
+  </data>
+ </layer>
+ <layer id="2" name="Mur" width="12" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECjvNyHDgFJH4NCNDAlDtAgYiAVDtqHo8YTUYw+ckIwMD0F1EYWB6YAAASXfPoEACAAA=
+  </data>
+ </layer>
+ <layer id="3" name="Escalier" width="12" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECmNgGAVDLQQcGElzsQeJ6kkxHQAnzI6sQAIAAA==
+  </data>
+ </layer>
+ <layer id="4" name="BAR" width="12" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECmNgIB2cYSKs5wmSkito6pcB+cuBeAUQI7ORtKAwrwLVYcMoioYYB+jvBaQ4GRheJKkHhi1R6okJf3zuBACRJwkzQAIAAA==
+  </data>
+ </layer>
+ <layer id="5" name="bouffe" width="12" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECmNggAApFggtCaWhwjgpJag6RSLVIxt0lhnCuwGlQXwYG1ndYGFzkuhHQSLUA/27gBT/AcOIJPWkmE1J2AMAldBSgUACAAA=
+  </data>
+ </layer>
+</map>
